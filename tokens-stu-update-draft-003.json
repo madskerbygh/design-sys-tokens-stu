@@ -1,0 +1,580 @@
+{
+  "TiriVelo Style Guide": {
+    "Anchor Brand Colors": {
+      "TiriVelo Main Blue": {
+        "value": "#197494",
+        "type": "color"
+      },
+      "TiriVelo Main Teal": {
+        "value": "#2BA3B7",
+        "type": "color"
+      }
+    },
+    "Lighter Anchors": {
+      "Main Blue Light": {
+        "value": "#23A3CE",
+        "type": "color"
+      },
+      "Main Teal Light": {
+        "value": "#45BFD4",
+        "type": "color"
+      }
+    },
+    "Accent & Action Colors": {
+      "TiriVelo Green": {
+        "value": "#4AB580",
+        "type": "color"
+      },
+      "TiriVelo Orange": {
+        "value": "#d45e00",
+        "type": "color"
+      },
+      "TiriVelo Orange Light": {
+        "value": "#ff7e3d",
+        "type": "color"
+      },
+      "TiriVelo Red": {
+        "value": "#BA2C33",
+        "type": "color"
+      }
+    },
+    "Neutrals": {
+      "Ink Black": {
+        "value": "#02191C",
+        "type": "color",
+        "description": "For Footer, text, and any elements that would normally be perfect black."
+      },
+      "Dark Gray (Silver)": {
+        "value": "#AEAEAE",
+        "type": "color"
+      },
+      "Light Silver": {
+        "value": "#d1d1d1",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Light Gray for Input Fields": {
+        "value": "#f3f3f3",
+        "type": "color"
+      }
+    },
+    "DESKTOP": {
+      "Headers & Titles": {
+        "Hero section headlines (H1)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Bold",
+            "fontSize": "60",
+            "lineHeight": "72",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "NOT FOR MOBILE"
+        },
+        "Page Titles (H1)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Bold",
+            "fontSize": "56",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none",
+            "lineHeight": "67.2"
+          },
+          "type": "typography",
+          "description": "NOT FOR MOBILE"
+        },
+        "Section Headers (H2)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "SemiBold",
+            "fontSize": "42",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none",
+            "lineHeight": "50.4"
+          },
+          "type": "typography",
+          "description": "Mostly for desktop. When using for mobile: Hero Section Headers on key screens only."
+        },
+        "Card Headings + stats": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "SemiBold",
+            "fontSize": "32",
+            "lineHeight": "38.4",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "Navigation Headers + Section Labels": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "SemiBold",
+            "fontSize": "18",
+            "lineHeight": "23.4",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "Sub-section Titles (H3)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Bold",
+            "fontSize": "40",
+            "lineHeight": "48",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "Card Titles (H5)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "SemiBold",
+            "fontSize": "28",
+            "lineHeight": "33.6",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        }
+      },
+      "Body Text": {
+        "Body (XL) Main Paragraphs & Hero Descriptions": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Regular",
+            "fontSize": "26",
+            "lineHeight": "33.8",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "NOT FOR MOBILE"
+        },
+        "Body (Medium) + Card Descriptions": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Regular",
+            "fontSize": "22",
+            "lineHeight": "28.6",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Mostly for desktop.\nOptional for Mobile / Recommended light use for STATS + FEATURE TEXT."
+        },
+        "General Body Text & CTAs": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Regular",
+            "fontSize": "20",
+            "lineHeight": "26",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "Hero Descriptions": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Regular",
+            "fontSize": "24",
+            "lineHeight": "31.2",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        }
+      },
+      "Other": {
+        "Form Labels & Footer Links": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Regular",
+            "fontSize": "16",
+            "lineHeight": "20.8",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "MOBILE": {
+      "Headers & Titles": {
+        "Section Headings + Modal Titles (H4)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "SemiBold",
+            "fontSize": "32",
+            "lineHeight": "38.4",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "Page Titles (H3)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Bold",
+            "fontSize": "40",
+            "lineHeight": "48",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "Card Titles + Feature Headers (H5)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "SemiBold",
+            "fontSize": "28",
+            "lineHeight": "33.6",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "Hero Section Headers (H2)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "SemiBold",
+            "fontSize": "42",
+            "lineHeight": "50.4",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        }
+      },
+      "Body Text": {
+        "Stats + Feature Text": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Regular",
+            "fontSize": "22",
+            "lineHeight": "28.6",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Mostly for desktop.\nOptional for Mobile / Recommended light use for STATS + FEATURE TEXT."
+        },
+        "Lead Paragraphs (+ important descriptions)": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Regular",
+            "fontSize": "24",
+            "lineHeight": "31.2",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "Primary Body Text, buttons, form labels + navigation": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Regular",
+            "fontSize": "20",
+            "lineHeight": "26",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "Section labels, tabs + filter chips": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "SemiBold",
+            "fontSize": "18",
+            "lineHeight": "23.4",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        }
+      },
+      "Other": {
+        "Helper text, Captions + Metadata": {
+          "value": {
+            "fontFamily": "DM Sans",
+            "fontWeight": "Regular",
+            "fontSize": "16",
+            "lineHeight": "20.8",
+            "letterSpacing": "0",
+            "paragraphSpacing": "0",
+            "paragraphIndent": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "General Purpose": {
+      "(XS Text) Input Field Placeholders & Tags": {
+        "value": {
+          "fontFamily": "DM Sans",
+          "fontWeight": "Regular",
+          "fontSize": "14",
+          "lineHeight": "18.2",
+          "letterSpacing": "0",
+          "paragraphSpacing": "0",
+          "paragraphIndent": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography",
+        "description": "MOBILE: Can be used for secondary text"
+      },
+      "Copyright, Legal & Badges": {
+        "value": {
+          "fontFamily": "DM Sans",
+          "fontWeight": "Regular",
+          "fontSize": "12",
+          "lineHeight": "15.6",
+          "letterSpacing": "0",
+          "paragraphSpacing": "0",
+          "paragraphIndent": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography"
+      },
+      "Micro Text - Status Chips": {
+        "value": {
+          "fontFamily": "DM Sans",
+          "fontWeight": "SemiBold",
+          "fontSize": "9",
+          "lineHeight": "11.7",
+          "letterSpacing": "0",
+          "paragraphSpacing": "0",
+          "paragraphIndent": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "Desktop Standard Width ALL PAGES": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "WIDTH_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "value": "1440px",
+      "type": "dimension",
+      "description": "FIXED WIDTH of 1440px. Height can obviously be variable depending on the length of the page. PLEASE NOTE this is how large the canvas is, but the content should not reach edges. For guidance on those dimesions, see Content Width All Pages."
+    },
+    "Content Width ALL PAGES": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "WIDTH_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false
+      },
+      "value": "1180px",
+      "type": "dimension",
+      "description": "FIXED WIDTH. Variable Height."
+    },
+    "Standard Drop Shadows": {
+      "value": {
+        "x": "3",
+        "y": "3",
+        "blur": "8",
+        "spread": "0",
+        "color": "rgba(0, 0, 0, 0.25)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "Section Backgrounds": {
+      "Extra Light Blue": {
+        "value": "#ebfbff",
+        "type": "color"
+      }
+    },
+    "Light Accents": {
+      "Lightest Orange": {
+        "value": "#ffe5d6",
+        "type": "color"
+      },
+      "Light Green": {
+        "value": "#ddf4e6",
+        "type": "color"
+      },
+      "Lightest Red": {
+        "value": "#f9d9db",
+        "type": "color"
+      },
+      "Badges": {
+        "Badge Light Red": {
+          "value": "#ffcfc4",
+          "type": "color"
+        },
+        "Badge Light Orange": {
+          "value": "#fff8e6",
+          "type": "color"
+        },
+        "Badge Light Blue": {
+          "value": "#d5f6ff",
+          "type": "color"
+        },
+        "Badge Light Green": {
+          "value": "#e6faf2",
+          "type": "color"
+        }
+      }
+    },
+    "Radius - XS": {
+      "value": "6",
+      "type": "borderRadius",
+      "description": "App store badges & small elements"
+    },
+    "Radius - Small - Input Fields": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "Radius - M - Cards & Badges": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "Radius - Large - Service Cards": {
+      "value": "30",
+      "type": "borderRadius",
+      "description": "Also: GPS chip & forms"
+    },
+    "Radius - XL - Buttons (CTAs)": {
+      "value": "32",
+      "type": "borderRadius"
+    },
+    "Radius - Full - Social Icons, Toggles, Avatar Circles": {
+      "value": "9999",
+      "type": "borderRadius"
+    },
+    "Gradients": {
+      "Main Gradient": {
+        "value": "linear-gradient(90deg, #044A62 0%, rgba(43, 163, 183, 0.5) 100%)",
+        "type": "color"
+      },
+      "Lighter Gradient": {
+        "value": "linear-gradient(90deg, #197594 0%, #4ABAC7 100%)",
+        "type": "color"
+      },
+      "Darker Gradient": {
+        "value": "linear-gradient(90deg, #02191C 0%, #044A62 100%)",
+        "type": "color"
+      }
+    },
+    "Button Height": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "WIDTH_HEIGHT"
+        ]
+      },
+      "value": "54px",
+      "type": "dimension",
+      "description": "Width is of course VARIABLE depending on text. See standard padding rules on design system."
+    },
+    "New Labs Purples": {
+      "Labs Logo Violet": {
+        "value": "#543ed6",
+        "type": "color",
+        "description": "NOT FOR TEXT ON DARK BACKGROUND"
+      },
+      "Labs Lavender": {
+        "value": "#7968e3",
+        "type": "color",
+        "description": "FOR TEXT"
+      },
+      "Labs Lightest": {
+        "value": "#d7cfff",
+        "type": "color"
+      }
+    },
+    "Parent Brand Colors": {
+      "Corporate Aqua": {
+        "value": "#47d7d3",
+        "type": "color",
+        "description": "Only for Corporate pages - highlight / accent"
+      },
+      "Corporate Lightest": {
+        "value": "#d1f7f6",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "TiriVelo Style Guide"
+    ]
+  }
+}
